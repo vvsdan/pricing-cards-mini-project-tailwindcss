@@ -3,7 +3,7 @@
 
 
 
-This is a simple learning project utilizing Tailwind CSS to create a pricing cards. 
+This is a simple learning project utilizing Tailwind CSS to create pricing cards. 
 
 
 
